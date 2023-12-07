@@ -14,6 +14,9 @@ the dropbox link for both is provided here:
 
 ./Models.zip:
 
-
+[download](https://www.dropbox.com/scl/fi/rmsx8o6h5xr275pbkq1i8/Models.zip?rlkey=m18fsm1yprw1u96y0buwde3yd&dl=0)
 
 ./CNN_data/audio:
+[download](https://www.dropbox.com/scl/fi/7wmpcsratspawm37inn2d/audio.zip?rlkey=ualdm82ee1akkxgrimsuex4zr&dl=0)
+
+Note that you must create the respective directories when you unzip the files!
