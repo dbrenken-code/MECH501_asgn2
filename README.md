@@ -45,4 +45,4 @@ the dropbox link for both is provided here:
 To download, click the gear icon on the folder and download it.
 
 
-Note that you must create the respective directories (i.e. ./Models and ./CNN_data/audio) when you unzip the files! If these paths are incorrect with respect to your python interpreter, the code will not run.
+Note that you must place the respective directories (i.e. ./Models and ./CNN_data/audio) in the correct place relative to this repo!
