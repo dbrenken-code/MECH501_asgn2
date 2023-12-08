@@ -1,17 +1,24 @@
-# MECH501_asgn2
+# MECH 501 - Final Project (Fall 2023)
+**McGill University**
 
-Final Project for MECH 501, Fall 2023 Term, McGill University.
+**Author:** David Brenken
 
-All code is written by David Brenken
+---
 
+## Instructions to Run Code:
 
-Instructions to run code:
+**Step 1:** Create a Python virtual environment (.venv) of version 3.10.9 in this directory.
 
-Step 1. Create a python .venv of version 3.10.9 in this directory
-Step 2. Install dependencies with pip, ensuring the version is correct:
+**Step 2:** Install dependencies with pip, ensuring the version is correct:
 
+```bash
+pip install matplotlib==3.8.2
+pip install tensorflow==2.10.0**
+pip install pandas==2.1.3
+pip install scipy==1.11.4
+pip install scikit-learn==4.66.1
 
-
+```
 FILE DECOMPRESSION:
 
 two directories are too large to directly host in github.
