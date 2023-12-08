@@ -34,12 +34,15 @@ The contents of ./CNN_data/audio are the .wav files from the original dataset. T
 
 the dropbox link for both is provided here:
 
-./Models.zip:
+./Models:
 
 [download](https://www.dropbox.com/scl/fo/9ieqmqbzw91mu1q8lgtc6/h?rlkey=lx46o0stmsx4a8xq3b2oj2vtb&dl=0)
 
 ./CNN_data/audio:
 
 [download](https://www.dropbox.com/scl/fo/9syy1qbgq2054eweib8a6/h?rlkey=4jas67t08rbid62a4lygxq0u5&dl=0)
+
+To download, click the gear icon on the folder and download it.
+
 
 Note that you must create the respective directories (i.e. ./Models and ./CNN_data/audio) when you unzip the files! If these paths are incorrect with respect to your python interpreter, the code will not run.
