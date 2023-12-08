@@ -40,6 +40,6 @@ the dropbox link for both is provided here:
 
 ./CNN_data/audio:
 
-[download]([https://www.dropbox.com/scl/fi/7wmpcsratspawm37inn2d/audio.zip?rlkey=ualdm82ee1akkxgrimsuex4zr&dl=0](https://www.dropbox.com/scl/fo/9syy1qbgq2054eweib8a6/h?rlkey=4jas67t08rbid62a4lygxq0u5&dl=0))
+[download](https://www.dropbox.com/scl/fo/9syy1qbgq2054eweib8a6/h?rlkey=4jas67t08rbid62a4lygxq0u5&dl=0)
 
 Note that you must create the respective directories (i.e. ./Models and ./CNN_data/audio) when you unzip the files! If these paths are incorrect with respect to your python interpreter, the code will not run.
