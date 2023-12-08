@@ -28,7 +28,7 @@ two directories are too large to directly host in github.
 
 These are: ./Models and ./CNN_data/audio
 
-The contents for ./Models is mandatory for compiling the markdown in the main .ipynb file.
+The contents of ./Models contains the results of my models as well as pretrained models which may be run
 
 The contents of ./CNN_data/audio are the .wav files from the original dataset. This is mandatory to generate the dataset
 
