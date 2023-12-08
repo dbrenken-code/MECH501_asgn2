@@ -13,13 +13,16 @@
 
 ```bash
 pip install matplotlib==3.8.2
-pip install tensorflow==2.10.0**
+pip install tensorflow==2.10.0
 pip install pandas==2.1.3
 pip install scipy==1.11.4
-pip install scikit-learn==4.66.1
+pip install scikit-learn==1.3.2
+pip install tqdm==4.66.1
 
 ```
-FILE DECOMPRESSION:
+It is *extremely* important that the tensorflow version and python version are correct, or the code will not run.
+
+## FILE DECOMPRESSION:
 
 two directories are too large to directly host in github.
 
